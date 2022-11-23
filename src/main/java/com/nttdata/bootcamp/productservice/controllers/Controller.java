@@ -1,4 +1,4 @@
-package com.nttdata.bootcamp.productservice;
+package com.nttdata.bootcamp.productservice.controllers;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
